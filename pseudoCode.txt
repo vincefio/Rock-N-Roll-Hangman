@@ -1,0 +1,8 @@
+1. HTML LAYOUT
+    -create elements for title, word hint, noose image
+    -elements for guesses, used letters, and guesses left
+
+2. GAME FUNCTIONALITY
+    -create an object key for word
+    -insert questions and hints in an array
+    -create method for choosing a random word
